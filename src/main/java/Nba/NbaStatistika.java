@@ -15,7 +15,7 @@ import com.google.common.collect.Iterables;
 import org.openqa.selenium.NoSuchElementException;
 
 public class NbaStatistika {
-    // All variables necessary that we will use
+    
 	public static String driverPath = "/Users/gjorgjebogdanovski/Desktop/";
 	public static WebDriver driver;
 	public static By searchInputIcon = By.className("stats-search__icon-text");
